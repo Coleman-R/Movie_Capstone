@@ -13,7 +13,7 @@
 ### **Motivation**
 I’ve always been curious about if budgets played a part in if a movie could be successful or not. So I decided to collect data on movies to see if it’s true. If not I can point out what makes movies that are successful have in common with one another.
 
-*Back to [Contents](#Contents)*
+
 
 
 
@@ -21,7 +21,7 @@ I’ve always been curious about if budgets played a part in if a movie could be
 ### **Question**
 Does a movie having a large budget guarantee it to become successful or is it possible for a small budget film to be just as successful as a big budget film?
 
-*Back to [Contents](#Contents)
+
 
 
 
@@ -36,7 +36,7 @@ Does a movie having a large budget guarantee it to become successful or is it po
 - Jupyter/Python Notebooks for gathering and cleaning data
 - Excel
 - Power Bi
-*Back to [Contents](#Contents)
+
 
 
 
@@ -47,7 +47,7 @@ The first challenge I had was finding datasets that I could use for my analysis.
 
 
 
-*Back to [Contents](#Contents)
+
 
 
 
