@@ -6,6 +6,7 @@
 - [Data Analysis](#Data-Analysis)
 - [Data Sources and Tools](#Data-Sources-and-Tools)
 - [Challenges](#Challenges)
+- [PowerPoint and Dashboard](#PowerPoint-and-Dashboard)
 
 
 
@@ -46,4 +47,8 @@ In my analysis, I found 3 different websites to help collect my data. With [IMDb
 ### **Challenges**
 Some challenges that I faced where being able to locate the data needed for my capstone and also being able to link the different datasets together. With the data coming from three different websites I needed to find a way to link the datasets together, which I was able to do with the title and year of the movies. I also needed to create a loop that allowed me to scrap multiple pages from BoxOfficeMojo website. After getting the data pull together and into Excel I did notice a problem of duplicate entries. The duplicate data had a low count of votes compared to the original and did not match the ratings from IMDb so these entries where taken out. While creating my charts I needed to be able to separate the movies by budget so I had to create a new column in Excel that categorized the budgets by size. I used this to create my charts for my PowerPoint and also for my Power BI dashboard.
 
+
+### **PowerPoint and Dashboard**
+- [Capstone PowerPoint](https://github.com/Coleman-R/Movie_Capstone/blob/main/Capstone_presentation.pptx)
+- [Capstone Dashboard](https://github.com/Coleman-R/Movie_Capstone/blob/main/Movie_Capstone.pbix)
 *Back to [Contents](#Contents)
